@@ -1,0 +1,14 @@
+{
+    "questions":
+    [
+        {"question":"Discuteremo le scelte aziendali dello scorso anno. Sai quali sono i vantaggi di avere una flotta con il noleggio a lungo termine?",
+        "answers": ["Risparmio","Durata","Nessuno"],
+        "rightAnswer": "Risparmio"},
+        {"question":"Quanto fa 2 + 2?",
+        "answers": [3,4,5],
+        "rightAnswer": "4"},
+        {"question":"Quanto fa 3 + 3?",
+        "answers": [5,6,7],
+        "rightAnswer": "6"}
+    ]
+}
